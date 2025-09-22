@@ -17,7 +17,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
  * 请求响应日志 AOP
  **/
 @Aspect
-@Component
+//@Component
 @Slf4j
 public class LogInterceptor {
 
